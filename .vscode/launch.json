@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "CatatUang (Supabase)",
+      "request": "launch",
+      "type": "dart",
+      "args": [
+        "--dart-define=SUPABASE_URL=https://dqvobogoubqkjfzaneir.supabase.co",
+        "--dart-define=SUPABASE_ANON_KEY=sb_publishable_du94KVsBKmDTDTLO5iS6Mw_2E94Y8Fs"
+      ]
+    }
+  ]
+}
