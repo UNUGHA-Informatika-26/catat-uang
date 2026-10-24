@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CatatUang
 
 Aplikasi Flutter pencatatan pemasukan dan pengeluaran dengan Supabase Auth dan
@@ -58,3 +59,7 @@ create policy "Users can add their own transactions"
 Pendaftaran, masuk, reset kata sandi, dan transaksi memakai sesi Supabase Auth.
 Nama lengkap disimpan sebagai metadata pengguna; transaksi tersimpan di tabel
 `transactions` dan ringkasan keuangan dihitung dari data yang dimuat.
+=======
+# catat-uang
+Aplikasi mobile sederhana untuk mencatat pemasukan dan pengeluaran harian.
+>>>>>>> 4559d2051632462cb2039149057c900282230b34
